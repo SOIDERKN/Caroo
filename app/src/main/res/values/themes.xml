@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.CarroBT" parent="Theme.AppCompat.DayNight.NoActionBar" />
+
+</resources>
